@@ -19,6 +19,11 @@ Module Program
         Console.WriteLine($"A {entrada} está muito feliz que o Sonic vai ser programador VB Net!!!!")
       End If
 
+      'Assim é comentário no código com aspa única
+      'Adicione mais uns 3 IFs para os nomes Eduardo, Pato e Vacilo
+      'Para Eduardo uma frase de estudos, para Pato uma frase de vagabundo e para Vacilo uma frase de chingamento.
+      'Boa sorte Sonic.
+
       Console.WriteLine()
 
       Console.WriteLine("Insira outro nome por favor:")
